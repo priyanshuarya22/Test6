@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test6</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="save">Save</string>
+    <string name="show_all">Show All</string>
+</resources>
